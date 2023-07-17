@@ -1,3 +1,4 @@
+![logo](https://github.com/Sheetal-B-Mohite/Sheetal-B-Mohite/blob/main/Github%20Banner.png)
 <h1 align="center">Hi there👋, I'm Sheetal Mohite</h1>
 <h3 align="center">A Lifelong student. There's always something new to learn, and curiosity is my driving force.</h3>
 
